@@ -1,6 +1,6 @@
 import React from 'react'
 
-// Zadání: Dopiš komponentu tak, aby každé tlačítko po kliknutí vypsalo, jako volbu uživatel vybral. Například pro poslední `console.log('Uživatel zvolil zimu')`.
+// Zadání: Dopiš komponentu tak, aby každé tlačítko po kliknutí vypsalo, jakou volbu uživatel vybral. Například pro poslední `console.log('Uživatel zvolil zimu')`.
 
 export const Uloha3 = () => {
 	return (
