@@ -4,4 +4,10 @@ body {
 
 button {
 	cursor: pointer;
+	display: flex;
+	align-items: center;
+}
+
+button img {
+	margin-right: 0.3em;
 }
